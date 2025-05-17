@@ -74,7 +74,7 @@ The application will run at http://localhost:5173.
 
 ▶️ Demo Video
 
-If available, include a link to a demo video demonstrating the landing page's features.
+• Click on that link to see the demo https://drive.google.com/file/d/1skNzZrxkZF7e5OpwRjf_lXCWA9CekakI/view?usp=sharing
 
 🧪 Available Scripts
 
